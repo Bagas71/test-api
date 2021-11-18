@@ -1,0 +1,17 @@
+{
+"users" :[{
+  "id": 1,
+  "name": "Bibby Kilby",
+  "email": "bkilby0@zimbio.com",
+  "gender": "Genderfluid",
+  "phone": "996-104-3858",
+  "avatar": "https://robohash.org/quaeratinciduntet.png?size=50x50&set=set1"
+}, {
+  "id": 2,
+  "name": "Micaela Kanwell",
+  "email": "mkanwell1@tripod.com",
+  "gender": "Genderqueer",
+  "phone": "130-275-6650",
+  "avatar": "https://robohash.org/consequaturquamqui.png?size=50x50&set=set1"
+}]
+}
